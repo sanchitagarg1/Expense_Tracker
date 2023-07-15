@@ -12,7 +12,7 @@ const Container = styled.div`
 
 const Header = styled.h1`
   color : black;
-  font-size : 35px;
+  font-size : 36px;
   font-weigth : bold;
 `;
 
